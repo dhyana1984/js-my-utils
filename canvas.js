@@ -1,4 +1,4 @@
-window.onload = function () {
+window.onload = function () { 
 
     var canvas = document.getElementById("canvas");
     var context = canvas.getContext("2d");  //画布上下文
