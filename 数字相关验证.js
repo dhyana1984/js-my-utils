@@ -147,3 +147,4 @@ function checkNegative(source) {
 function checkAllSpace(source) {
 	var regex = /^\s+$/g
 	return regex.test(source);
+}
